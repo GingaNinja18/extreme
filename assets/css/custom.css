@@ -1,3 +1,11 @@
 /*
 Custom Css
 */
+
+.cleaningsup{
+    filter: drop-shadow(5px 5px 5px);
+}
+
+.makebig:hover{
+    transform: scale(1.08);
+}
