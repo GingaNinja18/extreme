@@ -9,3 +9,17 @@ Custom Css
 .makebig:hover{
     transform: scale(1.08);
 }
+
+.border-primary {
+    border-color: #59ab6e !important;
+
+}
+
+.card-header {
+    background-color: #59ab6e;
+    color: white;
+}
+
+.hovbabe:hover {
+    color: #59ab6e;
+}
